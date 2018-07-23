@@ -1,0 +1,8 @@
+[package]
+name = "hsubs-comgen"
+version = "0.1.0"
+authors = ["izu"]
+
+[dependencies]
+reqwest = "0.8.6"
+regex = "1"
